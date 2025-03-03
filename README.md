@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 欢迎来到我的GitHub主页
 
-<!--
-**z727257758/z727257758** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 关于我
+我是一名专注于嵌入式系统开发的软件工程师，擅长底层开发与应用层设计。在嵌入式系统、跨平台应用和工业通信领域拥有丰富经验，热衷于构建高效、稳定的软件解决方案。
 
-Here are some ideas to get you started:
+## 🔧 技术栈
+- **编程语言**：C, C++, Rust
+- **嵌入式开发**： 
+  - 瑞芯微RK系列芯片(RK3399/RK3588/RK3568等)
+  - STM32系列MCU
+- **操作系统**：Linux系统应用开发
+- **GUI开发**：Qt, Tauri
+- **工业通信**：Modbus协议
+- **开发工具**：GCC, CMake, GDB, Keil, STM32CubeIDE
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 专业领域
+- 嵌入式固件开发与优化
+- Linux应用程序设计与实现
+- 工业自动化与控制系统
+- 驱动程序开发
+- 跨平台桌面应用
+- 实时系统设计
+
+## 🌱 正在学习
+- 嵌入式Linux系统定制
+- RTOS实时系统设计
+- 嵌入式安全与密码学
+- 低功耗设计技术
+
+---
+
+*"优秀的代码既能解决问题，又能讲述故事。"*
